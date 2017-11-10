@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imooc</string>
+    <string name="app_category">category</string>
+    <string name="app_scan">scan</string>
+</resources>

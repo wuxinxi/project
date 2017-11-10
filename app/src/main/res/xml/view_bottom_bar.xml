@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        icon="@drawable/ic_home_bottom"
+        id="@+id/home"
+        title="首页" />
+    <tab
+        icon="@drawable/ic_message_bottom"
+        id="@+id/message"
+        title="消息" />
+    <tab
+        icon="@drawable/ic_mine_bottom"
+        id="@+id/mine"
+        title="我的" />
+</tabs>
